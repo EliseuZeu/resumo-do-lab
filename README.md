@@ -12,6 +12,6 @@
 
 
 - ## Terror dos 9 - (Brincadeira a parte)
-- os 9 e considerado o tempo de inatividade do serviço, quanto mais 9 menos tempo indisponivel seu serviço ira ficar. ![Serviço]()
+- os 9 e considerado o tempo de inatividade do serviço, quanto mais 9 menos tempo indisponivel seu serviço ira ficar. ![Serviço](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services?lang=1)doc sobre SLA
 claro que esses 9 pode ser modificado de acordo com o peso do seu serviço, exemplo caso crie uma maquina virtual com 3 zonas de disponibilidade ou aumente recursos
 esses tempo de inatividade do recurso pode aumentar e claro o $$ tambem.
